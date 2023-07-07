@@ -1,3 +1,11 @@
+This is a clone of the below repo to work up better callback modules than what are available
+The only one so far is john_syslog_json.py which is to send more useful data to syslog
+Once I have got this up to grade I will get it merged back into community.general
+
+-John Critchley
+
+
+-------------------
 <!--
 Copyright (c) Ansible Project
 GNU General Public License v3.0+ (see LICENSES/GPL-3.0-or-later.txt or https://www.gnu.org/licenses/gpl-3.0.txt)
